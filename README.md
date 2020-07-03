@@ -1,3 +1,5 @@
+![Capa](Capa.png)
+
 <h1>Desafio: Fundamentos do ReactJS</h1>
 
 <h4>Esse repositório é referente ao sétimo desafio do Bootcamp GoStack turma 12, oferecido pela <a href="https://rocketseat.com.br/">Rocketseat </a>.</h4>
@@ -12,6 +14,16 @@ Recebemos um template e o editamos para que atendesse aos requisitos propostos d
 
 ```Importar arquivos CSV:``` Na sua página Import, você deve permitir o envio de um arquivo no formato csv para o seu backend, que irá fazer a importação das transações para o seu banco de dados.
 
+<h2>Resultado final</h2>
+
+<h4>Dashboard</h4>
+
+![Screenshot](dashboard.png)
+
+<h4>Import screen</h4>
+
+![Screenshot](import.png)
+
 ## Tecnologias Usadas
 - TypeScript
 - ReactJS
@@ -22,5 +34,5 @@ Recebemos um template e o editamos para que atendesse aos requisitos propostos d
 - styled-components
 - Teste automatizados
 
-Concluído no dia: **02/072020**
+Concluído no dia: **02/07/2020**
 
